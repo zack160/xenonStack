@@ -14,7 +14,7 @@ import java.sql.SQLException;
             // Database name to access
             String dbName = "dt";
             String dbUsername = "root";
-            String dbPassword = "*123";
+            String dbPassword = "*Yash85225!";
 
             Class.forName(dbDriver);
             Connection con = DriverManager.getConnection(dbURL + dbName,
