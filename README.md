@@ -2,7 +2,7 @@
 **Yash Sharma
 **Roll No-1900540130055
 ***FrontEnd Technologies used-HTML and CSS 
-***Backend-MySql***
+***Database-MySql***
 ## Login Page
 ![LoginPage!](https://github.com/zack160/xenonStack/blob/main/images/LoginPage.png)
 ### Sign Up Page
